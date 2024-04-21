@@ -14,7 +14,7 @@ public class NewTest {
   @Test
   public void f() {
 	  System.setProperty("webdriver.chrome.driver", 
-			  "C:\\Users\\Teli\\Desktop\\selenium setup\\chromedriver-win32\\chromedriver.exe");		
+			  "C:\\Users\\Admin\\Desktop\\sel\\sel-setup\\chromedriver.exe");		
 		
 		ChromeOptions co=new ChromeOptions();
 		co.addArguments("--remote-allow-origins=*");
