@@ -1,7 +1,7 @@
 package mvnplugin;
 
-public class plus {
+public class abc {
 public static void main(String[] args) {
-	System.out.println("plus")
+	System.out.println("abc");
 }
 }
