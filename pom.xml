@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <project xmlns="https://maven.apache.org/POM/4.0.0" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+=======
+<project xmlns="https://maven.apache.org/POM/4.0.0" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+>>>>>>> 382fbc6f3317973d5f8cbcf0aeaeb8917e72bddf
   <modelVersion>4.0.0</modelVersion>
   <groupId>accd</groupId>
   <artifactId>mvnplugin</artifactId>
