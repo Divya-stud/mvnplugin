@@ -1,7 +1,7 @@
 package mvnplugin;
 
-public class abc {
+public class ccd {
 public static void main(String[] args) {
-	System.out.println("abc");
+	System.out.println("ccd");
 }
 }
